@@ -1,6 +1,6 @@
 # 3dcart Premium Theme: sofaplace-html5
 
-http://themes.3dcart.com/
+http://themes.3dcart.com/sofa-place-html5_p_205.html
 
 ## Installation
 
